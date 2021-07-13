@@ -1,0 +1,4 @@
+2021-07-12 22:46:08,509 INFO com.infy.EmployeeDetails.EmployeeDetailsApplication [main] Starting EmployeeDetailsApplication using Java 15 on LAPTOP-MF9OA14E with PID 12904 (C:\Users\91968\Downloads\kash\FullStackAcademy-master\EmployeeDetails\target\classes started by 91968 in C:\Users\91968\Downloads\kash\FullStackAcademy-master\EmployeeDetails)
+2021-07-12 22:46:08,513 DEBUG com.infy.EmployeeDetails.EmployeeDetailsApplication [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-12 22:46:08,513 INFO com.infy.EmployeeDetails.EmployeeDetailsApplication [main] No active profile set, falling back to default profiles: default
+2021-07-12 22:46:18,405 INFO com.infy.EmployeeDetails.EmployeeDetailsApplication [main] Started EmployeeDetailsApplication in 10.458 seconds (JVM running for 11.379)

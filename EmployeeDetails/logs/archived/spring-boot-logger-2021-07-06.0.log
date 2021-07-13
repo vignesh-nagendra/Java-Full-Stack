@@ -1,0 +1,4 @@
+2021-07-07 00:14:47,901 INFO com.infy.EmployeeDetails.EmployeeDetailsApplication [main] Starting EmployeeDetailsApplication using Java 15.0.2 on LAPTOP-T4LTJSOR with PID 18524 (C:\Users\sunil\Downloads\EmployeeDetails\EmployeeDetails\EmployeeDetails\target\classes started by sunil in C:\Users\sunil\Downloads\EmployeeDetails\EmployeeDetails\EmployeeDetails)
+2021-07-07 00:14:47,902 DEBUG com.infy.EmployeeDetails.EmployeeDetailsApplication [main] Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-07 00:14:47,902 INFO com.infy.EmployeeDetails.EmployeeDetailsApplication [main] No active profile set, falling back to default profiles: default
+2021-07-07 00:14:52,797 INFO com.infy.EmployeeDetails.EmployeeDetailsApplication [main] Started EmployeeDetailsApplication in 5.239 seconds (JVM running for 6.21)
